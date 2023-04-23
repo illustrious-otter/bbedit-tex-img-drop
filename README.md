@@ -5,7 +5,7 @@ BBEdit allows a hook into dragged image events - this script will change the beh
 ```
 \begin{figure}[H]
   \centering
-	\includegraphics[width=<#SCALE#>\linewidth]{../../../foo/bar/baz.png}
+  \includegraphics[width=<#SCALE#>\linewidth]{../../../foo/bar/baz.png}
   \caption{<#CAPTION#>}
   \label{foo_bar_baz}
 \end{figure}
